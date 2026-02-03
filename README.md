@@ -1,7 +1,7 @@
 Hi,
 I am currently working as Assistant Director, Data & Analytics at HSBC EDPI (GCC in India). I have 15+ years of experience in Data Analytics.
 
-During my 13 years of experience, I have extensively shown results such as,
+During my 15+ years of analytics experience, I have extensively shown results such as,
 1) Supported customer growth strategies by developing ML models, Time series Forecasting, Regression, and Smoothening models, resulting in revenue gains of $3+ Mn.
 2) Transformed ~40% of the existing Excel reports to PowerBI with compelling visualizations.
 3) Provided analytical expertise to successfully launch TravelOne, Cashback credit cards in multiple Asian markets by finalizing the product features & identifying the target customers.
